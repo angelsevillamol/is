@@ -1,1 +1,1 @@
-Este es el segundo fichero modificado para ver diff.
+Este es el segundo fichero modificado para ver diff
