@@ -1,0 +1,4 @@
+*.o
+archivo.o
+log/
+!log/prueba.txt
