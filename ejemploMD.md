@@ -1,2 +1,3 @@
-*Esto es cursiva*
-**Esto es negrita**
+
+**Este texto está en negrita**
+*Este texto está en cursiva*
