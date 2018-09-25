@@ -12,3 +12,6 @@
 
 * Primer nivel
   * Nivel subprimero
+
+# Encabezado de primer nivel
+## Encabezado de segundo nivel
