@@ -1,10 +1,16 @@
-# Actores
+# Análisis de requisitos
 
-# Datos
+## Actores
 
-# Requisitos
+## Datos
 
-## Requisitos funcionales
+## Requisitos
+
+### Requisitos funcionales
+
+Los requisitos funcionales son características que debe cumplir el sistema y que expresan la funcionalidad y/o el comportamiento específico que debe tener el sistema ante determinadas situaciones.
+
+Estos se codifican con las siglas *RF*, seguidas de un guión y del número de requisito.
 
 * **RF-1:** 
 * **RF-2:** 
@@ -19,4 +25,4 @@
 * **RF-7:**
 
 
-## Requisitos no funcionales
+### Requisitos no funcionales
