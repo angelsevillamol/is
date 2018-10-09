@@ -36,7 +36,7 @@ Los requisitos no funcionales son característicos del proceso de desarrollo, de
 * **RNF-6:** El sistema debe funcionar en Linux.
 * **RNF-7:** El sistema deberá ser rápido ofreciendo los resultados de consulta en un tiempo inferior a dos segundos. Del mismo modo los procesos de actualización de un registro de la base de datos deben ser realizados en menos de un segundo.
 * **RNF-7:** Se utilizará la metodología UML durante la fase de desarrollo.
-* **RFM-8:** El sistema debe permitir almacenar información histórica.
+* **RFF-8:** El sistema debe permitir almacenar información histórica.
 * **RNF-9:** Se debe tener un alto control de errores, evitando que el usuario introduzca datos inconsistentes, y permitir al usuario la modificación o posibilidad de subsanar otros errores.
 * **RNF-10:** El formato de salida de los listados de usuarios debe ser html o Markdown.
 * **RNF-11:** El sistema solo puede admitir como máximo a 150 alumnos.
