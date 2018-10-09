@@ -34,11 +34,15 @@ Los requisitos no funcionales son característicos del proceso de desarrollo, de
 * **RFF-4:** El proyecto se realizará haciendo uso del sistema de control de versiones Git y la plataforma GitHub para el almacenamiento del repositorio de forma remota.
 * **RNF-5:** El historial de cambios queda guardado en las cuentas de Git por lo que la evaluación será incremental y no servirá subir los ficheros de un día para otro en Git.
 * **RNF-6:** El sistema debe funcionar en Linux.
-* **RNF-7:** El formato de salida de los listados de usuarios debe ser html o Markdown.
-* **RNF-8:** El sistema solo puede admitir como máximo a 150 alumnos.
-* **RNF-9:** Debe poderse cargar o guardar los datos del registro histórico de alumnos en ficheros binarios.
-* **RNF-10:** Todos los datos de un alumno son necesarios, excepto el número de grupo y el liderazgo.
-* **RNF-11:** Un alumno solo puede ser líder de un grupo si forma parte de un grupo.
-* **RNF-12:** Como máximo puede haber un solo líder por grupo.
-* **RNF-13:** En el mostrado, aquellos usuarios que sean líderes de un grupo deben verse remarcados.
-* **RNF-14:** Los atributos identificadores de un alumno son el dni, el e-mail, y el agregado que forma el número de grupo y la condición de líder.
+* **RNF-7:** El sistema deberá ser rápido ofreciendo los resultados de consulta en un tiempo inferior a dos segundos. Del mismo modo los procesos de actualización de un registro de la base de datos deben ser realizados en menos de un segundo.
+* **RNF-7:** Se utilizará la metodología UML durante la fase de desarrollo.
+* **RFM-8:** El sistema debe permitir almacenar información histórica.
+* **RNF-9:** Se debe tener un alto control de errores, evitando que el usuario introduzca datos inconsistentes, y permitir al usuario la modificación o posibilidad de subsanar otros errores.
+* **RNF-10:** El formato de salida de los listados de usuarios debe ser html o Markdown.
+* **RNF-11:** El sistema solo puede admitir como máximo a 150 alumnos.
+* **RNF-12:** Debe poderse cargar o guardar los datos del registro histórico de alumnos en ficheros binarios.
+* **RNF-13:** Todos los datos de un alumno son necesarios, excepto el número de grupo y el liderazgo.
+* **RNF-14:** Un alumno solo puede ser líder de un grupo si forma parte de un grupo.
+* **RNF-15:** Como máximo puede haber un solo líder por grupo.
+* **RNF-16:** En el mostrado, aquellos usuarios que sean líderes de un grupo deben verse remarcados.
+* **RNF-17:** Los atributos identificadores de un alumno son el dni, el e-mail, y el agregado que forma el número de grupo y la condición de líder.
