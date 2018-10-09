@@ -46,3 +46,6 @@ Los requisitos no funcionales son característicos del proceso de desarrollo, de
 * **RNF-15:** Como máximo puede haber un solo líder por grupo.
 * **RNF-16:** En el mostrado, aquellos usuarios que sean líderes de un grupo deben verse remarcados.
 * **RNF-17:** Los atributos identificadores de un alumno son el dni, el e-mail, y el agregado que forma el número de grupo y la condición de líder.
+* **RNF-18:** La interfaz del sistema deberá ser a través de línea de comandos.
+* **RNF-19:** El sistema debe proporcionar mensajes de error que sean informativos y orientados al usuario final.
+* **RNF-20:** El sistema debe ser capaz de manejar caracteres del alfabeto latino.
