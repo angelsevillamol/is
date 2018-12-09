@@ -4,7 +4,7 @@
 | ----------------------------------------------------------------------------------------------------- |:-------------:| ----------:|
 | Como usuario quiero poder identificarme en el sistema.                                                | 2             | 1          |
 | Como usuario quiero poder añadir otros usuarios en el sistema.                                        | 2             | 2          |
-| Como usuario quiero poder añadir alumnos al listado. | are neat                                       | 1             | 3          |
+| Como usuario quiero poder añadir alumnos al listado.                                                  | 1             | 3          |
 | Como usuario quiero poder buscar y seleccionar alumnos entre el listado.                              | 1             | 4          |
 | Como usuario quiero poder visualizar un listado de alumnos del sistema para poder ver su información. | 3             | 5          |
 | Como usuario me interesa poder guardar los datos almacenados independiente al sistema.                | 2             | 6          |
