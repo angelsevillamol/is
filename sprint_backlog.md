@@ -1,14 +1,14 @@
 # Sprint Backlog
 
-| Historia de Usuario                                                                                   | Estimación    | Prioridad  |
-| ----------------------------------------------------------------------------------------------------- |:-------------:| ----------:|
-| HU008.                                                | 2             | 1          |
-| HU009.                                        | 2             | 2          |
-| HU001.                                                  | 1             | 3          |
-| HU004.                              | 1             | 4          |
-| HU005. | 3             | 5          |
-| HU006.                | 2             | 6          |
-| HU007.                      | 2             | 7          |
-| HU002.              | 1             | 8          |
-| HU003.                                               | 1             | 9          |
-|                                                                                                       | **15**        |            |
+| Tarea      | Quién         | Estado         | Horas pendientes |
+| ---------- |:-------------:| --------------:|--------------:|
+| HU008.     | i72pehej      | En progreso    | 1 |
+| HU009.     | i72pehej      | En progreso    | 2 |
+| HU001.     | i72orled      | En progreso    | 1 |
+| HU004.     | i72orled      | No iniciada    | 1 |
+| HU005.     | i72semoa      | No iniciada    | 4 |
+| HU006.     | i72pehej      | No iniciada    | 2 |
+| HU007.     | i72pehej      | No iniciada    | 2 |
+| HU002.     | i72orled      | No iniciada    | 1 |
+| HU003.     | i72orled      | No iniciada    | 1 |
+
