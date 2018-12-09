@@ -7,6 +7,7 @@
 | HU001.     | i72orled      | En progreso    | 1 |
 | HU004.     | i72orled      | No iniciada    | 1 |
 | HU005.     | i72semoa      | No iniciada    | 4 |
+---
 | HU006.     | i72pehej      | No iniciada    | 2 |
 | HU007.     | i72pehej      | No iniciada    | 2 |
 | HU002.     | i72orled      | No iniciada    | 1 |
